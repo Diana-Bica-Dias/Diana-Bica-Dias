@@ -32,6 +32,11 @@ Depois de mais de **11 anos de experiência em liderança, gestão de equipas e 
 ---
 
 ## 📂 Projetos em Destaque
+- [🧹 dadosmedicos_limpeza_transformacao](https://github.com/Diana-Bica-Dias/dadosmedicos_limpeza_transformacao)  
+  📌 Exemplo de aprendizagem de **limpeza e transformação de dados médicos fictícios** em Python.  
+  Inclui exploração, remoção de nulos/duplicados, tratamento de outliers, criação de variáveis derivadas (IMC, faixa etária, hipertensão via regex) e codificação de variáveis categóricas.  
+  🔧 Tecnologias: Python, Pandas, NumPy, scikit-learn  
+
 - [📊 Limpeza e Transformação de Dados](https://github.com/Diana-Bica-Dias/limpeza-transformacao-dados)  
   🧹 Projeto em **Python (Pandas)** para cálculo de média, mediana e moda, tratamento de valores nulos, criação de faixas etárias e normalização de salários.  
   🔧 Tecnologias: Python, Pandas  
@@ -40,7 +45,7 @@ Depois de mais de **11 anos de experiência em liderança, gestão de equipas e 
   🔎 Tratamento de dados em Python e visualização com gráficos **Matplotlib, Seaborn e Squarify**.  
   🔧 Tecnologias: Python, Pandas, Matplotlib, Seaborn, Squarify  
 
-*(Mais projetos em breve, integrando Power BI e Python!)*
+*(Mais projetos em breve)*
 
 ---
 
