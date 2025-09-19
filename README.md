@@ -32,8 +32,13 @@ Depois de mais de **11 anos de experiência em liderança, gestão de equipas e 
 ---
 
 ## 📂 Projetos em Destaque
-- [Analise_de_dados_mais_graficos](https://github.com/Diana-Bica-Dias/Analise_de_dados_mais_graficos)  
-  🔎 Tratamento de dados em Python e visualização com gráficos (Matplotlib, Seaborn, Squarify).  
+- [📊 Limpeza e Transformação de Dados](https://github.com/Diana-Bica-Dias/limpeza-transformacao-dados)  
+  🧹 Projeto em **Python (Pandas)** para cálculo de média, mediana e moda, tratamento de valores nulos, criação de faixas etárias e normalização de salários.  
+  🔧 Tecnologias: Python, Pandas  
+
+- [📈 Análise de Dados com Gráficos](https://github.com/Diana-Bica-Dias/Analise_de_dados_mais_graficos)  
+  🔎 Tratamento de dados em Python e visualização com gráficos **Matplotlib, Seaborn e Squarify**.  
+  🔧 Tecnologias: Python, Pandas, Matplotlib, Seaborn, Squarify  
 
 *(Mais projetos em breve, integrando Power BI e Python!)*
 
