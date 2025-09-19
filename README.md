@@ -67,7 +67,7 @@ Depois de mais de **11 anos de experiência em liderança, gestão de equipas e 
 
 ---
 
-## 📫 Onde me encontrar
+## 📫 Onde me podes encontrar
 - [LinkedIn](https://www.linkedin.com/in/diana-bica-dias)  
 
 ---
